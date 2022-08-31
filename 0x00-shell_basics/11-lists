@@ -1,2 +1,2 @@
 #!/bin/bash
-jjjhhls -la . .. /boot
+ls -la . .. /boot
